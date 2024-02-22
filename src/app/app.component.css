@@ -1,0 +1,16 @@
+.brand{
+    width : 200px;
+}
+
+footer{
+    background-color: brown;
+    display : flex;
+    justify-content: right;
+    height:50px;
+}
+
+footer > p{
+    margin-top: 1%;
+    color: white;
+    padding-right: 5px;
+}
